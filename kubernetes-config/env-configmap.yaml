@@ -10,5 +10,6 @@ data:
   URL: http://localhost:8100
   POSTGRES_USERNAME: postgres
   POSTGRES_PASSWORD: mypassword
-  POSTGRES_HOST: postgres.cdfzaqss1zl7.us-east-2.rds.amazonaws.com
+  POSTGRES_HOST: postgres.cs3sykjk0qj7.us-east-2.rds.amazonaws.com
   POSTGRES_DB: postgres
+  JWT_SECRET: test
